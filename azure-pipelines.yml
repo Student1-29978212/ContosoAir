@@ -1,6 +1,6 @@
    pool:
-     name: default
-#     vmImage: 'ubuntu-latest'
+#     name: default
+     vmImage: 'ubuntu-latest'
    trigger:
      - master
    steps:
